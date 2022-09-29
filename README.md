@@ -16,7 +16,4 @@ There will be a shop to purchase recovery tools and upgrade the character in lat
 As the player proceeds to advanced stages, enemies would also evolve to more powerful ones, including enhanced speed and damage, bullets with tracking abilties et cetera.<br>
       Final boss           |  Level 3
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/71583394/192957296-d1a293a9-ecdc-4cf4-b6dd-52b2658b6fdc.gif" width=60% height=60%> | <img src="https://user-images.githubusercontent.com/71583394/192956813-2ec4cb7a-44a1-4126-ae02-a35be5741ad3.gif">
-
-
-
+<img src="https://user-images.githubusercontent.com/71583394/192957296-d1a293a9-ecdc-4cf4-b6dd-52b2658b6fdc.gif" width=60% height=60%> | <img src="https://user-images.githubusercontent.com/71583394/192962952-669d24cf-0519-4ebd-bebd-9beef93ceb47.gif">
